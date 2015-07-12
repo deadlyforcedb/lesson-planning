@@ -29,9 +29,9 @@ e.g.
 
 #### [In Baltimore, No One Left to Press the Police](http://davidsimon.com/in-baltimore-no-one-left-to-press-the-police/), David Simon
 
-> David Simon laments the state of journalism and reiterates the importance of continual vigilance in shaping how government responds to citizen oversight:
+David Simon laments the state of journalism and reiterates the importance of continual vigilance in shaping how government responds to citizen oversight:
 
- In an American city, a police officer with the authority to take human life can now do so in the shadows, while his higher-ups can claim that this is necessary not to avoid public accountability, but to mitigate against a nonexistent wave of threats. And the last remaining daily newspaper in town no longer has the manpower, the expertise or the institutional memory to challenge any of it.
+> In an American city, a police officer with the authority to take human life can now do so in the shadows, while his higher-ups can claim that this is necessary not to avoid public accountability, but to mitigate against a nonexistent wave of threats. And the last remaining daily newspaper in town no longer has the manpower, the expertise or the institutional memory to challenge any of it.
 
 > At one point last week, after the department spokesman denied me the face sheet of the shooting report, I tried doing what I used to do: I went to the Southeastern District and demanded the copy on file there.
 
@@ -49,7 +49,7 @@ e.g.
 A nice overview of all the different initiatives and strategies in counting officer-involved homicides.
 
 - Differences in counting
-  + > The Washington Post and the Guardian have developed their own methods for counting police-involved deaths in part because no other organization has precise tallies.
+  > The Washington Post and the Guardian have developed their own methods for counting police-involved deaths in part because no other organization has precise tallies.
   + WaPo:    
     > But other people are absent, like Freddie Gray, who died of injuries sustained while handcuffed and shackled in a police van. His name is not in the database because the Washington Post tracks only shooting deaths involving on-duty officers.
   + Guardian:    
@@ -62,7 +62,7 @@ A nice overview of all the different initiatives and strategies in counting offi
     > The Center for Disease Control and Prevention also tracks deaths due to “legal intervention.” Through the National Violent Death Reporting System, it aggregates information from state authorities on a voluntary basis. Currently only 32 states participate in the program
 
 - The use of Google News:
-  + > The Guardian and the Washington Post both rely heavily on two websites, Fatal Encounters and Killed by Police, in compiling their databases. In turn, both Fatal Encounters and Killed by Police rely on something commonly thought of as a vanity tool — Google Alerts — which allow people to set up custom searches and receive email alerts when those searches return new findings.
+  > The Guardian and the Washington Post both rely heavily on two websites, Fatal Encounters and Killed by Police, in compiling their databases. In turn, both Fatal Encounters and Killed by Police rely on something commonly thought of as a vanity tool — Google Alerts — which allow people to set up custom searches and receive email alerts when those searches return new findings.
 
 --------------
 
