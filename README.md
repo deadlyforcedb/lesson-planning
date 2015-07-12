@@ -44,7 +44,7 @@ David Simon laments the state of journalism and reiterates the importance of con
 
 ### Methodology
 
-#### [Is Google More Accurate Than the FBI?](https://www.themarshallproject.org/2015/07/02/is-google-more-accurate-than-the-fbi), Marshall Project
+#### [Is Google More Accurate Than the FBI?](https://www.themarshallproject.org/2015/07/02/is-google-more-accurate-than-the-fbi), The Marshall Project
 
 A nice overview of all the different initiatives and strategies in counting officer-involved homicides.
 
@@ -64,6 +64,16 @@ A nice overview of all the different initiatives and strategies in counting offi
 
 - The use of Google News:
   > The Guardian and the Washington Post both rely heavily on two websites, Fatal Encounters and Killed by Police, in compiling their databases. In turn, both Fatal Encounters and Killed by Police rely on something commonly thought of as a vanity tool — Google Alerts — which allow people to set up custom searches and receive email alerts when those searches return new findings.
+
+#### [Final Forms: What death certificates can tell us, and what they can’t.](http://www.newyorker.com/magazine/2014/04/07/final-forms), The New Yorker
+
+One of the best articles I've read about how difficult it is to summarize and reduce life (and death) to data points. This is particularly relevant to the problem of deciding on a schema and scope for tracking officer-involved homicides.
+
+> But real death, like real life, is complicated, as Swartzman’s experience with the diabetic drug user shows. In that case, the immediate cause was obvious: the man died of anoxia, lack of oxygen to the brain. But why? He could have gone hypoglycemic. He could have had a seizure. He could have suffered sudden cardiac arrest. He could have overdosed, accidentally or on purpose. “At some point,” Swartzman says, “you just have to make an educated guess as to what might have happened and go with it.”
+
+> As that suggests, death certificates, again like tax returns, do not always scrupulously reflect the truth. From the beginning, they have been compromised both by the limits of medical knowledge and by dodgy reporting practices. In 1662, John Graunt complained that syphilis was underreported as a cause of death because medical investigators failed to recognize it “after the mist of a Cup of Ale, and the bribe of a two-grout fee.” 
+
+> Similar treatment befell other causes of death viewed as morally damning or unmentionable in polite company: tuberculosis, breast cancer, alcoholism, AIDS, suicide. To protect the reputations of the deceased and the sensibilities of survivors, doctors sometimes upgraded those socially awkward deaths to more acceptable ones—issuing, in essence, vanity death certificates. That practice was sufficiently common in nineteen-thirties New York that the city began issuing a confidential medical report of death: a second, separate document stating the real cause of death.
 
 --------------
 
