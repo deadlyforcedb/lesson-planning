@@ -50,9 +50,10 @@ A nice overview of all the different initiatives and strategies in counting offi
 
 - Differences in counting
   > The Washington Post and the Guardian have developed their own methods for counting police-involved deaths in part because no other organization has precise tallies.
-  + WaPo:    
+  + WaPo:
     > But other people are absent, like Freddie Gray, who died of injuries sustained while handcuffed and shackled in a police van. His name is not in the database because the Washington Post tracks only shooting deaths involving on-duty officers.
-  + Guardian:    
+
+  + Guardian:
     > But because they count all police-involved deaths — not just shootings — their total is higher.  
 
   + FBI: 
